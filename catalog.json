@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "apps": [
   {
    "name": "Toko STB",
    "package": "id.ridhonet.tokostb",
-   "versionName": "2.3",
-   "versionCode": 14,
-   "apk": "TokoSTB-2.3.apk",
+   "versionName": "2.4",
+   "versionCode": 15,
+   "apk": "TokoSTB-2.4.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
    "size": "0,05 MB"
