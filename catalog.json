@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-13",
+  "apps": [
+    {
+      "name": "Toko STB",
+      "package": "id.ridhonet.tokostb",
+      "versionName": "1.8",
+      "versionCode": 9,
+      "apk": "TokoSTB-1.8.apk",
+      "description": "Toko aplikasi & update untuk box STB",
+      "size": "0,1 MB"
+    },
+    {
+      "name": "Bit TV",
+      "package": "com.live_streaming_tv.online_tv",
+      "versionName": "2.1.7-new-obsidian",
+      "versionCode": 60,
+      "apk": "bittv.apk",
+      "description": "TV online & sepak bola",
+      "size": "15,6 MB"
+    },
+    {
+      "name": "GVision",
+      "package": "bayustecu.gvision.v3",
+      "versionName": "3",
+      "versionCode": 83,
+      "apk": "gvision.apk",
+      "description": "TV & film",
+      "size": "9,2 MB"
+    },
+    {
+      "name": "GVision Lite",
+      "package": "bayustecu.gvision.lite.v3",
+      "versionName": "3L",
+      "versionCode": 305,
+      "apk": "gvision-lite.apk",
+      "description": "TV & film versi ringan",
+      "size": "9,4 MB"
+    }
+  ]
+}
