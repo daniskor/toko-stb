@@ -1,41 +1,105 @@
 {
-  "updated": "2026-11-13",
-  "apps": [
-    {
-      "name": "Toko STB",
-      "package": "id.ridhonet.tokostb",
-      "versionName": "1.9",
-      "versionCode": 10,
-      "apk": "TokoSTB-1.9.apk",
-      "description": "Toko aplikasi & update untuk box STB",
-      "size": "0,1 MB"
-    },
-    {
-      "name": "Bit TV",
-      "package": "com.live_streaming_tv.online_tv",
-      "versionName": "2.1.7-new-obsidian",
-      "versionCode": 60,
-      "apk": "bittv.apk",
-      "description": "TV online & sepak bola",
-      "size": "15,6 MB"
-    },
-    {
-      "name": "GVision",
-      "package": "bayustecu.gvision.v3",
-      "versionName": "3",
-      "versionCode": 83,
-      "apk": "gvision.apk",
-      "description": "TV & film",
-      "size": "9,2 MB"
-    },
-    {
-      "name": "GVision Lite",
-      "package": "bayustecu.gvision.lite.v3",
-      "versionName": "3L",
-      "versionCode": 305,
-      "apk": "gvision-lite.apk",
-      "description": "TV & film versi ringan",
-      "size": "9,4 MB"
-    }
-  ]
+ "updated": "2026-11-13",
+ "apps": [
+  {
+   "name": "Toko STB",
+   "package": "id.ridhonet.tokostb",
+   "versionName": "2.3",
+   "versionCode": 14,
+   "apk": "TokoSTB-2.3.apk",
+   "icon": "icon-tokostb.png",
+   "description": "Toko aplikasi & update untuk box STB",
+   "size": "0,05 MB"
+  },
+  {
+   "name": "Bit TV",
+   "package": "com.live_streaming_tv.online_tv",
+   "versionName": "2.1.8-alpha",
+   "versionCode": 62,
+   "apk": "bittv.apk",
+   "icon": "icon-bittv.png",
+   "description": "TV online & sepak bola",
+   "size": "18,2 MB"
+  },
+  {
+   "name": "GVision",
+   "package": "bayustecu.gvision.v3",
+   "versionName": "3",
+   "versionCode": 83,
+   "apk": "gvision.apk",
+   "icon": "icon-gvision.png",
+   "description": "TV & film",
+   "size": "9,7 MB"
+  },
+  {
+   "name": "GVision Lite",
+   "package": "bayustecu.gvision.lite.v3",
+   "versionName": "3L",
+   "versionCode": 305,
+   "apk": "gvision-lite.apk",
+   "icon": "icon-gvision-lite.png",
+   "description": "TV & film versi ringan",
+   "size": "9,9 MB"
+  },
+  {
+   "name": "RBTV+",
+   "package": "com.rblive.app",
+   "versionName": "3.0.320",
+   "versionCode": 320,
+   "apk": "rbtv.apk",
+   "icon": "icon-rbtv.png",
+   "description": "TV online",
+   "size": "18,8 MB"
+  },
+  {
+   "name": "Live TV GO",
+   "package": "com.livetv.go",
+   "versionName": "1.4.9",
+   "versionCode": 7,
+   "apk": "livetvgo.apk",
+   "icon": "icon-livetvgo.png",
+   "description": "TV online",
+   "size": "6,2 MB"
+  },
+  {
+   "name": "LOKTV VIP",
+   "package": "com.fornax.vortex",
+   "versionName": "1.0.0",
+   "versionCode": 1,
+   "apk": "loktv.apk",
+   "icon": "icon-loktv.png",
+   "description": "TV online",
+   "size": "15,4 MB"
+  },
+  {
+   "name": "Dopamine TV",
+   "package": "com.dopaminetv",
+   "versionName": "1.0.8",
+   "versionCode": 12,
+   "apk": "dopaminetv.apk",
+   "icon": "icon-dopaminetv.png",
+   "description": "TV & film",
+   "size": "9,0 MB"
+  },
+  {
+   "name": "Wakhaji Lite",
+   "package": "lite.wakhaji.id",
+   "versionName": "1.0",
+   "versionCode": 10,
+   "apk": "wakhaji-lite.apk",
+   "icon": "icon-wakhaji.png",
+   "description": "TV & video",
+   "size": "13,4 MB"
+  },
+  {
+   "name": "Send Files To TV",
+   "package": "com.yablio.sendfilestotv",
+   "versionName": "1.3.8",
+   "versionCode": 53,
+   "apk": "sendfilestotv.apk",
+   "icon": "icon-sendfilestotv.png",
+   "description": "Kirim file antar perangkat TV",
+   "size": "9,6 MB"
+  }
+ ]
 }
