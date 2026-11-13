@@ -82,6 +82,36 @@
    "size": "9,0 MB"
   },
   {
+   "name": "Movie Box",
+   "package": "com.community.mbox.tv",
+   "versionName": "1.1.11.0915",
+   "versionCode": 50040017,
+   "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/moviebox.apk",
+   "icon": "icon-moviebox.png",
+   "description": "Film & serial TV",
+   "size": "40,0 MB"
+  },
+  {
+   "name": "SmartTube",
+   "package": "org.smarttube.stable",
+   "versionName": "32.68",
+   "versionCode": 2458,
+   "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/smarttube.apk",
+   "icon": "icon-smarttube.png",
+   "description": "YouTube tanpa iklan untuk TV",
+   "size": "26,1 MB"
+  },
+  {
+   "name": "TizenTube",
+   "package": "io.gh.reisxd.tizentube.cobalt",
+   "versionName": "2.0.3",
+   "versionCode": 203,
+   "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/tizentube.apk",
+   "icon": "icon-tizentube.png",
+   "description": "YouTube untuk TV",
+   "size": "80,3 MB"
+  },
+  {
    "name": "Wakhaji Lite",
    "package": "lite.wakhaji.id",
    "versionName": "1.0",
