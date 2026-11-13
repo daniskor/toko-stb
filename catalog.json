@@ -82,16 +82,6 @@
    "size": "9,0 MB"
   },
   {
-   "name": "Movie Box",
-   "package": "com.community.mbox.tv",
-   "versionName": "1.1.11.0915",
-   "versionCode": 50040017,
-   "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/moviebox.apk",
-   "icon": "icon-moviebox.png",
-   "description": "Film & serial TV",
-   "size": "40,0 MB"
-  },
-  {
    "name": "SmartTube",
    "package": "org.smarttube.stable",
    "versionName": "32.68",
