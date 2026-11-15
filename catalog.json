@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-16",
  "apps": [
   {
    "name": "Toko STB",
@@ -9,7 +9,7 @@
    "apk": "TokoSTB-2.5.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
-   "size": "0,06 MB"
+   "size": "0,05 MB"
   },
   {
    "name": "Bit TV",
