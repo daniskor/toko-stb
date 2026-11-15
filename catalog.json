@@ -130,6 +130,16 @@
    "icon": "icon-bone-tv-v-3-0.png",
    "description": "TV LIVE STREAMING",
    "size": "11,8 MB"
+  },
+  {
+   "name": "Home",
+   "package": "com.gathin.tvhome",
+   "versionName": "4.1.1",
+   "versionCode": 46,
+   "apk": "glass-tv-home.apk",
+   "icon": "icon-glass-tv-home.png",
+   "description": "glass tv launcher",
+   "size": "2,1 MB"
   }
  ]
 }
