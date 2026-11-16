@@ -4,12 +4,12 @@
   {
    "name": "Toko STB",
    "package": "id.ridhonet.tokostb",
-   "versionName": "2.9",
-   "versionCode": 20,
-   "apk": "TokoSTB-2.9.apk",
+   "versionName": "3.0",
+   "versionCode": 21,
+   "apk": "TokoSTB-3.0.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
-   "size": "0,06 MB"
+   "size": "0,07 MB"
   },
   {
    "name": "Bit TV",
@@ -130,6 +130,16 @@
    "icon": "icon-bone-tv-v-3-0.png",
    "description": "TV LIVE STREAMING",
    "size": "11,8 MB"
+  },
+  {
+   "name": "Home",
+   "package": "com.gathin.tvhome",
+   "versionName": "4.1.1",
+   "versionCode": 46,
+   "apk": "glass-tv-home.apk",
+   "icon": "icon-glass-tv-home.png",
+   "description": "glass tv launcher",
+   "size": "2,1 MB"
   }
  ]
 }
