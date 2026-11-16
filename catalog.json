@@ -140,6 +140,16 @@
    "icon": "icon-faaetv.png",
    "description": "live tv",
    "size": "8,9 MB"
+  },
+  {
+   "name": "Movie Box",
+   "package": "com.moviebox.mod",
+   "versionName": "1.3",
+   "versionCode": 4,
+   "apk": "movie-box-mod.apk",
+   "icon": "icon-movie-box-mod.png",
+   "description": "nonton movie",
+   "size": "17,6 MB"
   }
  ]
 }
