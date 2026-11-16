@@ -130,6 +130,16 @@
    "icon": "icon-bone-tv-v-3-0.png",
    "description": "TV LIVE STREAMING",
    "size": "11,8 MB"
+  },
+  {
+   "name": "FaaeTV",
+   "package": "com.faae.faaetv",
+   "versionName": "1.26.22",
+   "versionCode": 22,
+   "apk": "faaetv.apk",
+   "icon": "icon-faaetv.png",
+   "description": "live tv",
+   "size": "8,9 MB"
   }
  ]
 }
