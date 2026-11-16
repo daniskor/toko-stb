@@ -4,12 +4,12 @@
   {
    "name": "Toko STB",
    "package": "id.ridhonet.tokostb",
-   "versionName": "2.6",
-   "versionCode": 17,
-   "apk": "TokoSTB-2.6.apk",
+   "versionName": "2.8",
+   "versionCode": 19,
+   "apk": "TokoSTB-2.8.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
-   "size": "0,05 MB"
+   "size": "0,06 MB"
   },
   {
    "name": "Bit TV",
