@@ -1,8 +1,8 @@
 {
-  "version": 2,
-  "name": "b860hproject rev2",
-  "notes": "Perbaikan kursor cacat (OSD1 cursor plane dimatikan, pointer digambar software). Setelah update, box restart.",
-  "zip": "https://github.com/daniskor/toko-stb/releases/download/b860hproject/update-2.zip",
-  "sha256": "2f624b45eabf218480d879d011a6a845d4037c5eda0989ecd85d1538ea9f6918",
-  "sig": "G84+u8S/dV2DaxZV/3waCAzHpexBj1U9sQaUrzqE3xDvHQqGB/ywEF2gWWAwYVKTNmXBf0hpXM+yRnIXZhuZbqwLKUm7VeqyXGVYLj/jrb6Chq6N/FjYklY+GiX7y21khDeYzcmQP+ANCw5AgefkVPPHtJuoKsACZ70MvD/GSf8BkireGZeJ6lCPMGot91fmYax8oHPgce1QpqSUCMCdmACAsURNlBpzThC+LbYMZyHchAa3a5mLKiisBDkseda55bTGn3G09tTVoRX/cpbOSw5hvEP4OJzUbSLVxUI2X9tb5sfU6xOpJpMDCuRwuazQ2DbxS9EtlxkroD0p4fu2dQ=="
+  "version": 3,
+  "name": "b860hproject rev3",
+  "notes": "Uji simulasi update otomatis: perbaikan kursor + penanda v3.",
+  "zip": "https://github.com/daniskor/toko-stb/releases/download/b860hproject/update-3.zip",
+  "sha256": "0f7f076baef7b687fc2b9441f5537d6641207e7e7b2bb14ad24e25032856f500",
+  "sig": "pemjERzOJ03QEaCeg0j3hl6T9B6nYMgQmmL/QZP3hxutxZFX+7YQrEjTutyUfNR51Xq0Ld0oiqUPiyYm/Fz6zHyZFBJy/boQf5zO7JVQB+WHdnj3s6H7lVejen7czVCqF7XKKwC7vs8FmxD1ExqD6WaIucHmtPCoQx1TyycP7LNGZoyKMZrXd5YwBYpenvy1JEVkt6lAPKG6WjCP/tCNVcTUqhSm+z/lZ3aEtWifg+iq2KGTQd5qqh9P49zwRdJ5IIv76Uz0/ABSlndjZDCR8bVlUxljNGGNQEkI20tJoN3+mgiG+H6VmHiOQQhC930rDvuADG8xo5lzKoQ+HVmj8w=="
 }
