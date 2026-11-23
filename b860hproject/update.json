@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "b860hproject rev2",
+  "notes": "Perbaikan kursor cacat (OSD1 cursor plane dimatikan, pointer digambar software). Setelah update, box restart.",
+  "zip": "https://github.com/daniskor/toko-stb/releases/download/b860hproject/update-2.zip",
+  "sha256": "2f624b45eabf218480d879d011a6a845d4037c5eda0989ecd85d1538ea9f6918",
+  "sig": "G84+u8S/dV2DaxZV/3waCAzHpexBj1U9sQaUrzqE3xDvHQqGB/ywEF2gWWAwYVKTNmXBf0hpXM+yRnIXZhuZbqwLKUm7VeqyXGVYLj/jrb6Chq6N/FjYklY+GiX7y21khDeYzcmQP+ANCw5AgefkVPPHtJuoKsACZ70MvD/GSf8BkireGZeJ6lCPMGot91fmYax8oHPgce1QpqSUCMCdmACAsURNlBpzThC+LbYMZyHchAa3a5mLKiisBDkseda55bTGn3G09tTVoRX/cpbOSw5hvEP4OJzUbSLVxUI2X9tb5sfU6xOpJpMDCuRwuazQ2DbxS9EtlxkroD0p4fu2dQ=="
+}
