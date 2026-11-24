@@ -5,142 +5,142 @@
   {
    "name": "Toko STB",
    "package": "id.ridhonet.tokostb",
-   "versionName": "3.4",
-   "versionCode": 25,
-   "apk": "TokoSTB-3.4.apk",
+   "versionName": "3.5",
+   "versionCode": 26,
+   "apk": "TokoSTB-3.5.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "Bit TV",
    "package": "com.live_streaming_tv.online_tv",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "bittv.apk",
    "icon": "icon-bittv.png",
    "description": "TV online & sepak bola",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "GVision",
    "package": "bayustecu.gvision.v3",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "gvision.apk",
    "icon": "icon-gvision.png",
    "description": "TV & film",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "GVision Lite",
    "package": "bayustecu.gvision.lite.v3",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "gvision-lite.apk",
    "icon": "icon-gvision-lite.png",
    "description": "TV & film versi ringan",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "RBTV+",
    "package": "com.rblive.app",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "rbtv.apk",
    "icon": "icon-rbtv.png",
    "description": "TV online",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "Live TV GO",
    "package": "com.livetv.go",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "livetvgo.apk",
    "icon": "icon-livetvgo.png",
    "description": "TV online",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "LOKTV VIP",
    "package": "com.fornax.vortex",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "loktv.apk",
    "icon": "icon-loktv.png",
    "description": "TV online",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "Dopamine TV",
    "package": "com.dopaminetv",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "dopaminetv.apk",
    "icon": "icon-dopaminetv.png",
    "description": "TV & film",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "SmartTube",
    "package": "org.smarttube.stable",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/smarttube.apk",
    "icon": "icon-smarttube.png",
    "description": "YouTube tanpa iklan untuk TV",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "TizenTube",
    "package": "io.gh.reisxd.tizentube.cobalt",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "https://github.com/daniskor/toko-stb/releases/download/v1.0/tizentube.apk",
    "icon": "icon-tizentube.png",
    "description": "YouTube untuk TV",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "Wakhaji Lite",
    "package": "lite.wakhaji.id",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "wakhaji-lite.apk",
    "icon": "icon-wakhaji.png",
    "description": "TV & video",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "Send Files To TV",
    "package": "com.yablio.sendfilestotv",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "sendfilestotv.apk",
    "icon": "icon-sendfilestotv.png",
    "description": "Kirim file antar perangkat TV",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "BONE TV",
    "package": "com.bonetv.iptv",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "bone-tv-v-3-0.apk",
    "icon": "icon-bone-tv-v-3-0.png",
    "description": "TV LIVE STREAMING",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   },
   {
    "name": "FaaeTV",
    "package": "com.faae.faaetv",
-   "versionName": "3.4",
-   "versionCode": 25,
+   "versionName": "3.5",
+   "versionCode": 26,
    "apk": "faaetv.apk",
    "icon": "icon-faaetv.png",
    "description": "live tv",
-   "size": "0,07 MB"
+   "size": "0,13 MB"
   }
  ]
 }
