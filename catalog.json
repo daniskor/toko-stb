@@ -1,6 +1,5 @@
 {
  "updated": "2026-11-25",
- "pay_url": "https://tokostb-pay.zulhamdani2510.workers.dev",
  "apps": [
   {
    "name": "Toko STB",
@@ -141,6 +140,16 @@
    "icon": "icon-faaetv.png",
    "description": "live tv",
    "size": "8,9 MB"
+  },
+  {
+   "name": "ion tv",
+   "package": "com.ion.tv",
+   "versionName": "1.1.11",
+   "versionCode": 22,
+   "apk": "iontv.apk",
+   "icon": "icon-iontv.png",
+   "description": "v 01",
+   "size": "11,4 MB"
   }
  ]
 }
