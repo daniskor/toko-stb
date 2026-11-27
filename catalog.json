@@ -150,6 +150,16 @@
    "icon": "icon-moviebox.png",
    "description": "Cinema Film",
    "size": "42,2 MB"
+  },
+  {
+   "name": "ion tv",
+   "package": "com.ion.tv",
+   "versionName": "1.1.11",
+   "versionCode": 22,
+   "apk": "iontv-v1-1-11.apk",
+   "icon": "icon-iontv-v1-1-11.png",
+   "description": "lve tv streaming online",
+   "size": "11,4 MB"
   }
  ]
 }
