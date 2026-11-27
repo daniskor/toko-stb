@@ -9,7 +9,7 @@
    "apk": "TokoSTB-3.51.apk",
    "icon": "icon-tokostb.png",
    "description": "Toko aplikasi & update untuk box STB",
-   "size": "0,25 MB"
+   "size": "0,24 MB"
   },
   {
    "name": "Bit TV",
@@ -40,16 +40,6 @@
    "icon": "icon-gvision-lite.png",
    "description": "TV & film versi ringan",
    "size": "9,9 MB"
-  },
-  {
-   "name": "RBTV+",
-   "package": "com.rblive.app",
-   "versionName": "3.0.320",
-   "versionCode": 320,
-   "apk": "rbtv.apk",
-   "icon": "icon-rbtv.png",
-   "description": "TV online",
-   "size": "18,8 MB"
   },
   {
    "name": "Live TV GO",
