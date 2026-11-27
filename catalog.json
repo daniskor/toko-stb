@@ -42,16 +42,6 @@
    "size": "9,9 MB"
   },
   {
-   "name": "Live TV GO",
-   "package": "com.livetv.go",
-   "versionName": "1.4.9",
-   "versionCode": 7,
-   "apk": "livetvgo.apk",
-   "icon": "icon-livetvgo.png",
-   "description": "TV online",
-   "size": "6,2 MB"
-  },
-  {
    "name": "LOKTV VIP",
    "package": "com.fornax.vortex",
    "versionName": "1.0.0",
