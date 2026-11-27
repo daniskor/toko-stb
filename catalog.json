@@ -142,16 +142,6 @@
    "size": "8,9 MB"
   },
   {
-   "name": "ion tv",
-   "package": "com.ion.tv",
-   "versionName": "1.1.11",
-   "versionCode": 22,
-   "apk": "iontv.apk",
-   "icon": "icon-iontv.png",
-   "description": "v 01",
-   "size": "11,4 MB"
-  },
-  {
    "name": "MovieBoxTV",
    "package": "com.community.mbox.tv",
    "versionName": "1.2.0.0923.04",
