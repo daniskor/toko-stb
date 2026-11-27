@@ -22,16 +22,6 @@
    "size": "18,2 MB"
   },
   {
-   "name": "GVision",
-   "package": "bayustecu.gvision.v3",
-   "versionName": "3",
-   "versionCode": 83,
-   "apk": "gvision.apk",
-   "icon": "icon-gvision.png",
-   "description": "TV & film",
-   "size": "9,7 MB"
-  },
-  {
    "name": "GVision Lite",
    "package": "bayustecu.gvision.lite.v3",
    "versionName": "3L",
