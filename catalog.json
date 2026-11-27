@@ -130,6 +130,16 @@
    "icon": "icon-iontv-v1-1-11.png",
    "description": "lve tv streaming online",
    "size": "11,4 MB"
+  },
+  {
+   "name": "LiveTVGO",
+   "package": "com.livetv.go",
+   "versionName": "1.4.9",
+   "versionCode": 7,
+   "apk": "live-tv-go.apk",
+   "icon": "icon-live-tv-go.png",
+   "description": "live/tv/streaming",
+   "size": "6,2 MB"
   }
  ]
 }
