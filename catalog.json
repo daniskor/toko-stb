@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "apps": [
   {
    "name": "Toko STB",
@@ -140,7 +140,16 @@
    "icon": "icon-live-tv-go.png",
    "description": "live/tv/streaming",
    "size": "6,2 MB"
+  },
+  {
+   "name": "Power Menu Helper",
+   "package": "com.slimbox.powermenu1installer",
+   "versionName": "1.4",
+   "versionCode": 5,
+   "apk": "powermenu1-1-4-selfinstall.apk",
+   "icon": "icon-powermenu1-1-4-selfinstall.png",
+   "description": "power",
+   "size": "0,17 MB"
   }
- ],
- "pay_url": "https://tokostb-pay.zulhamdani2510.workers.dev"
+ ]
 }
